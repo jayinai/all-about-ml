@@ -8,3 +8,4 @@
 - [Free Dolly: Introducing the World's First Truly Open Instruction-Tuned LLM](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
 - [Instruction Tuning with GPT-4](https://instruction-tuning-with-gpt-4.github.io/)
 - [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+- [LangChain: an open source package that helps you build LLM-powered app](https://github.com/hwchase17/langchain)
